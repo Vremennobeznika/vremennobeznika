@@ -10,9 +10,9 @@
 | --- | --- | --- |
 | **ENJIGIRLING** | Инженерный справочник: поиск по профессиям, словарь, материалы и калькуляторы. Источники и ограничения описаны в документации. | [Демо](https://vremennobeznika.github.io/enjigirling/) · [Код](https://github.com/Vremennobeznika/enjigirling) |
 | **АТЛАС** | Визуальный редактор сюжетов: граф событий, персонажи, хронология, отмена действий и JSON-копии. Встроен вымышленный пример «Тайна маяка». | [Демо](https://vremennobeznika.github.io/atlas-story-editor/) · [Код](https://github.com/Vremennobeznika/atlas-story-editor) |
-| **МОЯ НЕДЕЛЯ** | Локальный PWA-планировщик: расписание, покупки, финансы, экспорт JSON и календаря. Возможности фоновых уведомлений ограничены браузером. | [Код и запуск](https://github.com/Vremennobeznika/local-life-planner) |
+| **МОЯ НЕДЕЛЯ** | Локальный PWA-планировщик: расписание, покупки, финансы, экспорт JSON и календаря. Возможности фоновых уведомлений ограничены браузером. | [Демо](https://vremennobeznika.github.io/local-life-planner/) · [Код](https://github.com/Vremennobeznika/local-life-planner) |
 
-Ещё: [The Butler](https://github.com/Vremennobeznika/The-butler) — бытовой планировщик с панелью «Сегодня» и помощником для Mac; [витрина услуг](https://vremennobeznika.github.io/evosif/) и [визитка](https://vremennobeznika.github.io/visit_card/) — небольшие адаптивные сайты.
+Ещё: [The Butler](https://github.com/Vremennobeznika/The-butler) — бытовой планировщик с панелью «Сегодня» и помощником для Mac ([демо](https://vremennobeznika.github.io/The-butler/)); [витрина услуг](https://vremennobeznika.github.io/evosif/) и [визитка](https://vremennobeznika.github.io/visit_card/) — небольшие адаптивные сайты.
 
 ## Технологии в проектах
 
